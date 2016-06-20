@@ -1,0 +1,6 @@
+{
+  "name": "Seckill",
+  "tagline": "Java高并发秒杀API（慕课网）",
+  "body": "# seckill（Java高并发秒杀API）\r\n\r\n慕课网视频\r\n\r\n1. [Java高并发秒杀API之业务分析与DAO层](http://www.imooc.com/learn/587)\r\n2. [Java高并发秒杀API之Service层](http://www.imooc.com/learn/631)\r\n3. [Java高并发秒杀API之web层](http://www.imooc.com/learn/630)\r\n4. [Java高并发秒杀API之高并发优化](http://www.imooc.com/learn/632)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
